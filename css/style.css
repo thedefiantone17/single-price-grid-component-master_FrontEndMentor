@@ -16,8 +16,8 @@ section{
     align-items: center;
     display: flex;
     width: 100%;
-    min-height: 100vh;
-    padding: 100px 30px;
+    min-height: 92vh;
+    padding: 30px 30px;
     background-color: hsl(204, 43%, 93%);
 }
 
@@ -30,6 +30,8 @@ section{
     box-shadow: 0 0 14px 1px #00000024;
     overflow: hidden;
 }
+
+/* Setting up the cards */
 
 .item{
     padding: 30px;
@@ -116,6 +118,8 @@ section{
     font-size: 1rem;
 }
 
+/* media screen tablet and normal laptop screen */
+
 @media only screen and (min-width:768px) {
     .container{
         grid-template-columns: 1fr 1fr;
@@ -128,4 +132,15 @@ section{
     .item-2, .item-3{
         grid-row: 2;
     }
+}
+
+/* footer */
+
+footer{
+    padding: 30px 0 17px 0;
+    text-align: center;
+    justify-content: center;
+    background-color: rgb(53, 53, 53);
+    color: white;
+    text-decoration: none;
 }

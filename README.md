@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/thedefiantone17/single-price-grid-component-master_FrontEndMentor)
+- Live Site URL: [Live Preview](https://thedefiantone17.github.io/single-price-grid-component-master_FrontEndMentor/)
 
 ## My process
 
