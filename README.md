@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/thedefiantone17/single-price-grid-component-master_FrontEndMentor)
-- Live Site URL: [Live Preview](https://your-live-site-url.com)
+- Live Site URL: [Live Preview](https://thedefiantone17.github.io/single-price-grid-component-master_FrontEndMentor/)
 
 ## My process
 
